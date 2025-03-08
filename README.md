@@ -18,8 +18,12 @@ git clone https://github.com/yourusername/flask-crud-api.git
 cd flask-crud-api
 ```
 
+```sh
 python -m venv venv
 source venv/bin/activate # On macOS/Linux
 venv\Scripts\activate # On Windows
+```
 
+```sh
 pip install -r requirements.txt
+```
