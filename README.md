@@ -27,3 +27,5 @@ venv\Scripts\activate # On Windows
 ```sh
 pip install -r requirements.txt
 ```
+
+By this you can setup
