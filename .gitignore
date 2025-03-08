@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+instance/
+
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+.env
+
+# Logs and cache
+*.log
